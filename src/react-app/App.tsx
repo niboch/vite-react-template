@@ -32,6 +32,7 @@ function App() {
           Name from API is: {name}
         </button>
       </div>
+      <p>All photography © Copyright Steven Auger 2025.</p>
     </>
   );
 }
